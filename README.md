@@ -4,11 +4,12 @@
 
 * Firefox y Jupyter
 * Introducción a elementos de HTML
-* Introducción a XPath
+* Búsqueda con selectores
+* Búsqueda con XPath
 * Introducción al DOM
 * Creación de gráficos vectoriales con SVG
 * CSS y SVG
-* Fuentes de datos
+* Gestión básica de datos
 * Caso de uso: Gráfico de barras con SVG
 * Introducción a D3.js
 * Filtrado de datos
@@ -21,4 +22,5 @@
 * Eventos e interacciones
 * Mapas geográficos
 * Despliegue de un servidor web con Flask
+* Otras herramientas
 * Caso de uso
