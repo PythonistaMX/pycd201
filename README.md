@@ -2,9 +2,10 @@
 
 ## Temario:
 
-1. Herramientas del curso
+* Firefox y Jupyter
 * Introducción a elementos de HTML
-* Introducción a DOM, XPath y Selectores
+* Introducción a XPath
+* Introducción al DOM
 * Creación de gráficos vectoriales con SVG
 * CSS y SVG
 * Fuentes de datos
