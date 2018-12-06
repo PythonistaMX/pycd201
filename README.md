@@ -7,9 +7,9 @@
 * Búsqueda con selectores
 * Búsqueda con XPath
 * Introducción al DOM
-* Creación de gráficos vectoriales con SVG
-* CSS y SVG
-* Gestión básica de datos
+* Introducción a SVG
+* Animaciones, transiciones y transformaciones con CSS
+* Introducción a XMLHttpRequest
 * Caso de uso: Gráfico de barras con SVG
 * Introducción a D3.js
 * Filtrado de datos
@@ -17,10 +17,8 @@
 * Medidas y escalas
 * Ejes y textos
 * Caso de uso: Gráfico de barras con D3.js
-* Ligado de datos con el DOM
 * Transiciones
 * Eventos e interacciones
 * Mapas geográficos
 * Despliegue de un servidor web con Flask
-* Otras herramientas
 * Caso de uso

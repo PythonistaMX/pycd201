@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Ejemplo de D3.js</title>
+        <meta charset="UTF-8">
+        <script src="../lib/d3.min.js"></script>
+    </head>
+    <body>
+        <style scoped>
+            .mejorado {
+            color: orange;
+            }
+        </style>
+        <div id="d3-div-1"></div>
+        <script>
+            let size_data = [10,20,30];
+           d3.select("#d3-div-1").selectAll('.mejorado')
+              .data(size_data)
+              .enter().append('p')
+              .attr("class","mejorado")
+              .style("font-size", function(d){ return "" + d + "px";})
+             .text("¡Hola D3!");
+        </script>
+    </body>
+</html>
