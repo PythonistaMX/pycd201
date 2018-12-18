@@ -13,11 +13,11 @@
 * Introducción a XMLHttpRequest
 * Gráfico de barras con SVG
 * Introducción a D3.js
-* Filtrado de datos
-* Selecciones
+* Gestión de elementos
+* Estilos, atributos y propiedades
+* Obtención, filtrado y gestión de datos
 * Medidas y escalas
 * Ejes y textos
 * Transiciones
 * Eventos e interacciones
 * Mapas geográficos
-* Caso de uso
