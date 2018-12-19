@@ -14,10 +14,11 @@
 * Gráfico de barras con SVG
 * Introducción a D3.js
 * Gestión de elementos
+* Operaciones con elementos
 * Estilos, atributos y propiedades
-* Obtención, filtrado y gestión de datos
+* Gestión e interacción con datos
 * Medidas y escalas
 * Ejes y textos
-* Transiciones
+* Transiciones y animaciones
 * Eventos e interacciones
-* Mapas geográficos
+* Componentes extendidos de D3.js
