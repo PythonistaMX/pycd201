@@ -1,5 +1,1 @@
-[{"Nombre":"Juan", "py101":7, "py111":8, "py121":"NA", "py201":8},
-{"Nombre":"Mariano", "py101":6, "py111":7, "py121":4, "py201":7},
-{"Nombre":"María", "py101":6, "py111":9, "py121":10, "py201":8},
-{"Nombre":"Joaquín", "py101":5, "py111":5, "py121":5, "py201":5}
-]
+[{"Nombre":"Juan", "py101":7, "py111":8, "py121":"NA", "py201":8},{"Nombre":"Mariano", "py101":6, "py111":7, "py121":4, "py201":7},{"Nombre":"María", "py101":6, "py111":9, "py121":10, "py201":8},{"Nombre":"Joaquín", "py101":5, "py111":5, "py121":5, "py201":5}]
