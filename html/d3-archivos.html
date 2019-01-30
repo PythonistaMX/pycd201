@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>py211-Obtención de datos a partir de recursos locales</title>
+         <script src="https://d3js.org/d3.v5.min.js"></script>
+         <meta charset="utf-8">
+    </head>
+    <body>
+        <h1>py211: Obtención de datos a partir de archivos locales.</h1>
+        <p/>
+        <div id ="contenedor"></div>
+        <script>
+            d3.image("static/imagenes/pythonista.png").
+            then(function(imagen) {
+                let contenedor = document.getElementById("contenedor");
+                contenedor.appendChild(imagen);
+            });
+        </script>
+    </body>
+</html>
